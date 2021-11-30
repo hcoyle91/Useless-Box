@@ -42,9 +42,9 @@ A few problems that have occurred in past useless boxes is the access of the bat
 * [Back to the top](#Top)
 
 
-<img src="github.com/hcoyle91/Useless-Box/blob/f1e60edd6af50c9cf486a5dc69afc8b13c828a2d/code.png" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="250" height="250" />  
+<img src="github.com/hcoyle91/Useless-Box/blob/f1e60edd6af50c9cf486a5dc69afc8b13c828a2d/code.png" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="350" height="400" />  
 
-<img src="github.com/hcoyle91/Useless-Box/blob/f1e60edd6af50c9cf486a5dc69afc8b13c828a2d/wiring.png" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="250" height="250" />  
+<img src="github.com/hcoyle91/Useless-Box/blob/f1e60edd6af50c9cf486a5dc69afc8b13c828a2d/wiring.png" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="350" height="400" />  
 
 ### Final Product
 * [Back to the top](#Top)
