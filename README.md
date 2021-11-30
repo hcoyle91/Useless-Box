@@ -1,19 +1,24 @@
 # Useless-Box
 By: Henry Coyle
 
+
+<img src="https://github.com/hcoyle91/Useless-Box/blob/f1e60edd6af50c9cf486a5dc69afc8b13c828a2d/final.png" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="350" height="400" />  
+
 ### Top
 
 ## Table of Contents
 
 * [Overview](#Overview)
-* [](#)
-* [](#)
-* [](#)
+* [Planning](#Planning)
+* [Wiring/CAD](#Wiring/CAD)
+* [Final Product](#Final_Product)
+
 
 
 
 
 ### Overview
+* [Back to the top](#Top)
 
 Description:
 	We are creating a box with two servos inside of it. When you flip a switch, it opens a hatch where a dragon comes out.the dragon hits the other switch making the knight come out. The knight hits both switches and makes both of them go back down except the knight goes back down slowly.
@@ -23,3 +28,12 @@ Our problem is that the client asked us to make a box that turns itself off. Our
 A few problems that have occurred in past useless boxes is the access of the battery and servo arms not responding. Another problem we may encounter is the restriction of only 3D printing two items. We also have a limitation on time and space. A big problem we may run into is our knowledge. Our goal is to have the box work without the printed out dragon and knight.
 
 ![Initial Design](https://github.com/hcoyle91/Useless-Box/blob/f1e60edd6af50c9cf486a5dc69afc8b13c828a2d/design.png)
+
+### Planning
+
+
+### Wiring/CAD
+
+
+### Final Product
+
