@@ -36,16 +36,16 @@ A few problems that have occurred in past useless boxes is the access of the bat
 * Arms strong enough to flip the switch
 #### Planned Materials Needed
 
-6 acrylic sides
-2 flaps
-2 servos
-1 Arduino
-An unknown amount of wires
-2 hinges
-2 switches
-Optional: Dragon and Knight
-3d printed parts
-2 Arms 
+* 6 acrylic sides
+* 2 flaps
+* 2 servos
+* 1 Arduino
+* An unknown amount of wires
+* 2 hinges
+* 2 switches
+* Optional: Dragon and Knight
+* 3d printed parts
+* 2 Arms 
 
 
 ![Initial Design](https://github.com/hcoyle91/Useless-Box/blob/f1e60edd6af50c9cf486a5dc69afc8b13c828a2d/design.png)
