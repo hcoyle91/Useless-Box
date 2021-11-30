@@ -44,7 +44,7 @@ A few problems that have occurred in past useless boxes is the access of the bat
 
 <img src="https://github.com/hcoyle91/Useless-Box/blob/main/wiring.png" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="350" height="400" />  <img src="https://github.com/hcoyle91/Useless-Box/blob/main/code.png" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="350" height="400" />  
 #### 3-D parts
-<img src="https://github.com/hcoyle91/Useless-Box/blob/main/part2.png" width="350" height="400" />  <img src="https://github.com/hcoyle91/Useless-Box/blob/main/part2.png" width="350" height="400" /> 
+<img src="https://github.com/hcoyle91/Useless-Box/blob/main/part2.png" width="350" height="300" />  <img src="https://github.com/hcoyle91/Useless-Box/blob/main/part.png" width="350" height="300" /> 
 
 
 ### Final Product
