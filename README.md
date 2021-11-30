@@ -9,7 +9,7 @@ By: Henry and Peter
 ## Table of Contents
 
 * [Overview](#Overview)
-* [Wiring/CAD/Code](#Wiring/CAD/Code)
+* [Wiring/CAD/Code](#Wiring,_CAD_and_Code)
 * [Final Product](#Final_Product)
 
 
@@ -51,7 +51,7 @@ A few problems that have occurred in past useless boxes is the access of the bat
 ![Initial Design](https://github.com/hcoyle91/Useless-Box/blob/f1e60edd6af50c9cf486a5dc69afc8b13c828a2d/design.png)
 
 
-### Wiring/CAD/Code
+### Wiring, CAD and Code
 * [Back to the top](#Top)
 
 
