@@ -10,7 +10,7 @@ By: Henry and Peter
 
 * [Overview](#Overview)
 * [Wiring, CAD and Code](https://github.com/hcoyle91/Useless-Box/blob/main/README.md#wiring-cad-and-code)
-* [Final Product](#Final_Product)
+* [Final Product](https://github.com/hcoyle91/Useless-Box/blob/main/README.md#final-product)
 
 
 
