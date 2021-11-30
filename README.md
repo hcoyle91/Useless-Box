@@ -9,7 +9,7 @@ By: Henry and Peter
 ## Table of Contents
 
 * [Overview](#Overview)
-* [Wiring/CAD/Code](#Wiring/CAD)
+* [Wiring/CAD/Code](#Wiring/CAD/Code)
 * [Final Product](#Final_Product)
 
 
