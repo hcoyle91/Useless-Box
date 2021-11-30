@@ -22,4 +22,4 @@ We want to create a box that when a switch is flipped, an arm comes out. We want
 Our problem is that the client asked us to make a box that turns itself off. Our solution to the problem is to create a servo arm or two. When a switch is flipped, the Arduino arms will go through a series of actions that will turn itself off.
 A few problems that have occurred in past useless boxes is the access of the battery and servo arms not responding. Another problem we may encounter is the restriction of only 3D printing two items. We also have a limitation on time and space. A big problem we may run into is our knowledge. Our goal is to have the box work without the printed out dragon and knight.
 
-[Initial Design](https://github.com/hcoyle91/Useless-Box/blob/f1e60edd6af50c9cf486a5dc69afc8b13c828a2d/design.png)
+![Initial Design](https://github.com/hcoyle91/Useless-Box/blob/f1e60edd6af50c9cf486a5dc69afc8b13c828a2d/design.png)
