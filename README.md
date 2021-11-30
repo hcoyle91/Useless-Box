@@ -9,7 +9,7 @@ By: Henry and Peter
 ## Table of Contents
 
 * [Overview](#Overview)
-* [Wiring, CAD and Code](#Wiring,_CAD_and_Code)
+* [Wiring, CAD and Code](https://github.com/hcoyle91/Useless-Box/blob/main/README.md#wiring-cad-and-code)
 * [Final Product](#Final_Product)
 
 
