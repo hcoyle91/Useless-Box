@@ -9,8 +9,7 @@ By: Henry and Peter
 ## Table of Contents
 
 * [Overview](#Overview)
-* [Planning](#Planning)
-* [Wiring/CAD](#Wiring/CAD)
+* [Wiring/CAD/Code](#Wiring/CAD)
 * [Final Product](#Final_Product)
 
 
@@ -29,11 +28,13 @@ A few problems that have occurred in past useless boxes is the access of the bat
 
 ![Initial Design](https://github.com/hcoyle91/Useless-Box/blob/f1e60edd6af50c9cf486a5dc69afc8b13c828a2d/design.png)
 
-### Planning
 
-
-### Wiring/CAD
-
+### Wiring/CAD/Code
+* [Back to the top](#Top)
+![Code](https://github.com/hcoyle91/Useless-Box/blob/f1e60edd6af50c9cf486a5dc69afc8b13c828a2d/code.png)
+![Wiring](https://github.com/hcoyle91/Useless-Box/blob/f1e60edd6af50c9cf486a5dc69afc8b13c828a2d/wiring.png)
 
 ### Final Product
+* [Back to the top](#Top)
 
+![]()
