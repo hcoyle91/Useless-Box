@@ -65,5 +65,16 @@ A few problems that have occurred in past useless boxes is the access of the bat
 ### Final Product
 * [Back to the top](#Top)
 
-<img src="" width="350" height="300" />
+<img src="https://github.com/hcoyle91/Useless-Box/blob/25c3dfe93b696c739db52a67668bdcf3081cf511/CAD%20design.png" width="350" height="300" />
+
+#### Problems Encounterd:
+
+* One problem we encountered was how to hold the servos. We had two servos that both needed to be close to the middle of the box and enough support. We wanted our servos’ center of rotation to be as close to the middle as possible so that the servos wouldn’t have to work harder to move the arms. The servos’ needed to be supported enough so that they could go through many rotations and not move out of their places. The servo holder also needed to bypass the Arduino. We made the servo holder go across and then down where it was screwed into the bottom.
+
+* The second problem was that the battery pack in Solidworks was not the same one we had. The one we had was wider and shorter. All we had to do though was switch up the dimensions and print it.
+
+* The third problem we encountered was that our switches were so stiff that our arms would fly off. We had two solutions to this problem. First, we took out a 3 or 4 springs from each switch. Second, we drilled screw holes into the arms and screwed them to the servo.
+The third problem was that we needed to tape the battery to the wall because the hole was too big. It works but it is flimsy.
+
+Lastly, We went over our planned schedule because we did not realize how long each part would take. Our arms took longer than we thought because cutting the servo horn hole needed to be manually dimension both times.
 
