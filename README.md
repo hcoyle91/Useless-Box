@@ -65,7 +65,7 @@ A few problems that have occurred in past useless boxes is the access of the bat
 ### Final Product
 * [Back to the top](#Top)
 
-<img src="https://github.com/hcoyle91/Useless-Box/blob/25c3dfe93b696c739db52a67668bdcf3081cf511/CAD%20design.png" width="350" height="300" />
+<img src="https://github.com/hcoyle91/Useless-Box/blob/25c3dfe93b696c739db52a67668bdcf3081cf511/CAD%20design.png" width="350" height="300" /> <img src="https://github.com/hcoyle91/Useless-Box/blob/main/final%20%232.png" width="350" height="300" />
 
 #### Problems Encounterd:
 
