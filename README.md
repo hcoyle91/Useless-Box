@@ -50,13 +50,16 @@ A few problems that have occurred in past useless boxes is the access of the bat
 
 ![Initial Design](https://github.com/hcoyle91/Useless-Box/blob/f1e60edd6af50c9cf486a5dc69afc8b13c828a2d/design.png)
 
+![code](https://github.com/hcoyle91/Useless-Box/blob/1acb700198e3ee2a0e73baa0459529df574ee97b/code.png)
 
 ### Wiring, CAD and Code
 * [Back to the top](#Top)
 
 
 <img src="https://github.com/hcoyle91/Useless-Box/blob/main/wiring.png" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="350" height="275" />  
-![Code](https://github.com/hcoyle91/Useless-Box/blob/1acb700198e3ee2a0e73baa0459529df574ee97b/code.png)
+
+
+![code](https://github.com/hcoyle91/Useless-Box/blob/1acb700198e3ee2a0e73baa0459529df574ee97b/code.png)
 
 
 #### 3-D printed parts:
